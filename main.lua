@@ -1,5 +1,3 @@
--- Leaked by Cypher | https://discord.gg/b8QsvrMCNq
-
 -- ============================================================
 --  MORTY HUB | Block Spin (v2.6 – Optimizado Anti-Lock)
 -- ============================================================
